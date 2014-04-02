@@ -1,0 +1,10 @@
+----------------------------------------------------------------------------
+RGB Cube Project
+Brendan Byrne
+04/02/14
+wtfbyrne.tumblr.com
+----------------------------------------------------------------------------
+
+1. Drill hole in top of box (not entirely necessary)
+2. Wire up LEDs.
+3. Use hot glue to mount LEDs to each corner.
